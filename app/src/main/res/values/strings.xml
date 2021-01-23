@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Memo App</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="error_password_confirm">Password do not match</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_name_password">Wrong Name or Password</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Memo/Notes Application</string>
+    <string name="app_logo">app logo</string>
+    <string name="export_text">Export</string>
+    <string name="import_text">Import</string>
+    <string name="add_text">add</string>
+    <string name="error_not_found">Not Found. Please register first</string>
+    <string name="title_activity_list">List</string>
+    <string name="save_text">Save</string>
+    <string name="note_title_label">Title</string>
+    <string name="note_content_label">Content</string>
+    <string name="choose_option_text">Choose option</string>
+    <string name="edit_text">Edit</string>
+    <string name="delete_text">Delete</string>
+</resources>
